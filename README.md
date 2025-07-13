@@ -20,8 +20,8 @@ An AI-powered assistant that can:
 
 ## Setup Instructions
 ```bash
-git clone <repo-url>
-cd genai-assistant
+git clone https://github.com/reyansh8104/EZLab_RK.git
+cd EZLab_RK
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
