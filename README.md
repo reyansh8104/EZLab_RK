@@ -1,3 +1,5 @@
+# Developed by REYANSH KAUSHIK
+
 
 # Smart AI Assistant for Summarization and Interaction
 
@@ -9,12 +11,12 @@ An AI-powered assistant that can:
 - Evaluate user answers with document-based justification.
 
 ## Features
-- :rocket: Streamlit Web App
-- :brain: Gemini Powered LLM Reasoning
-- :bookmark_tabs: Auto Summary 
-- :speech_balloon: Ask Anything Mode (Based on Documents)
-- :dart: Challenge Me Mode (Quiz + Evaluation)
-- :nail_care: Sleek Modern UI
+- Streamlit Web App
+- Gemini Powered LLM Reasoning
+- Auto Summary 
+- Ask Anything Mode (Based on Documents)
+- Challenge Me Mode (Quiz + Evaluation)
+- :Sleek Modern UI
 
 ## Setup Instructions
 ```bash
@@ -42,6 +44,3 @@ streamlit run app.py
 - PyMuPDF for Document Parsing
 - Dotenv for Secure Keys
 
----
-
-Developed by REYANSH KAUSHIK
